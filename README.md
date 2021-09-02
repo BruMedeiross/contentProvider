@@ -8,7 +8,7 @@ Bootcamp Santander - DIO
 *Content Provider é uma interface que pode ser utilizada para encapsular recursos de armazenamento de dados.
 Ao usar herança da classe de Content Provider os dados podem ser compartilhados entre aplicações diferentes.*
 
-      * recursosNativos
+      * Content Provider *(parte II > content provider cliente)*
       * linguagem: kotlin
 
       
